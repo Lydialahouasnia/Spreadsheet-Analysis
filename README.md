@@ -8,8 +8,7 @@ Required Tasks
 3. Output the total sales across all months
 
 Extended Tasks
-● Calculate the following:
-- Monthly changes as a percentage
-- The average
-- Months with the highest and lowest sales
-● Visualise the data
+1. Calculate monthly changes as a percentage
+2. Calculate the average
+3. Calculate months with the highest and lowest sales
+4. Visualise the data
