@@ -1,5 +1,6 @@
 # Spreadsheet-Analysis 
 Project Brief: Spreadsheet Analysis
+
 In this project I use Python to run data analysis on a spreadsheet. The standard project will use csv file that contains fake sales data.
 
 Required Tasks
